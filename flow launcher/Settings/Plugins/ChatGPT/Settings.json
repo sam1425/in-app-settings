@@ -1,0 +1,8 @@
+{
+  "default_prompt": "normal",
+  "log_level": "error",
+  "api_key": "",
+  "save_conversation": "false",
+  "prompt_stop": "||",
+  "model": "gpt-3.5-turbo"
+}

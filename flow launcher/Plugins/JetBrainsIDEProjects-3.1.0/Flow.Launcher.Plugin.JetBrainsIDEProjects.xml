@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Flow.Launcher.Plugin.JetBrainsIDEProjects</name>
+    </assembly>
+    <members>
+        <member name="T:Flow.Launcher.Plugin.JetBrainsIDEProjects.JetBrainsIDEProjects">
+            <inheritdoc cref="T:Flow.Launcher.Plugin.IPlugin" />
+        </member>
+        <member name="M:Flow.Launcher.Plugin.JetBrainsIDEProjects.JetBrainsIDEProjects.Init(Flow.Launcher.Plugin.PluginInitContext)">
+            <inheritdoc />
+        </member>
+        <member name="M:Flow.Launcher.Plugin.JetBrainsIDEProjects.JetBrainsIDEProjects.Query(Flow.Launcher.Plugin.Query)">
+            <inheritdoc />
+        </member>
+        <member name="M:Flow.Launcher.Plugin.JetBrainsIDEProjects.JetBrainsIDEProjects.CreateSettingPanel">
+            <inheritdoc />
+        </member>
+        <member name="T:Flow.Launcher.Plugin.JetBrainsIDEProjects.NewOpenItem">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.NewOpenItem.ToolId">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.NewOpenItem.ChannelId">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.State.Tools">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.Tool.ChannelId">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.Tool.ToolId">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.Tool.BuildNumber">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.Tool.InstallLocation">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.Tool.LaunchCommand">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.Tool.DisplayVersion">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:Flow.Launcher.Plugin.JetBrainsIDEProjects.Tool.DisplayName">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="T:Flow.Launcher.Plugin.JetBrainsIDEProjects.Settings.SettingsControl">
+            <summary>
+            SettingsControl
+            </summary>
+        </member>
+        <member name="M:Flow.Launcher.Plugin.JetBrainsIDEProjects.Settings.SettingsControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

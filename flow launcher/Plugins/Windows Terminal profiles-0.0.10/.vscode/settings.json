@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "plugin",
+        "lib"
+    ],
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    }
+}
