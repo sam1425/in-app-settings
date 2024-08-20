@@ -1,0 +1,2 @@
+I am gonna start saying what is hacking for me is not just like the movies and culture sees hacking that is a thing for freaks that knows about computers and can "hack" anything 
+some hackers in the jargon file make jokes with the thing they are talking about like “This sentence no verb”, or “Too repetetetive”, or “Bad speling”, or “Incorrectspa cing.” or changing things like malir sal or dain bramage

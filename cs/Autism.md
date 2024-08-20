@@ -1,0 +1,17 @@
+reasons why i believe i am autist
+- fingertips i allways have this thing when i am walking or just not doing something with my hands I touch my finger with my thumb or any finger i
+- I am very very very bad at social interaction and i try to avoid it as much as i can. just realize that i copy behaiviours from others from this youtuber called znorux (he also has autism) i used his phrases and his form of play (playing like maybe the player has a good day if its killing to much) and from a english teacher she had very good facial expresion and i tryed to mimic her with my eyebrows, also i had a person that told me i had no eyebrows movement when talking and that was weird so i try my hard to anyone see that 
+- I have depresion and social anxiety i cant be with people without wanting to km yes maybe is skill issue. by that i mean that i cant understand people its very difficult for me i developed this personality that always try to predict what the other person will say so i can be prepared for whats next and its very difficult to me to "fit in"
+- I always mask myself with this idea of what should be a normal person and i try my hardest to anyone to not know my real self
+- I am very sensitive to sound and light i cant sleep with a little light even closing my eyes doesn't help and sound i can contol a little bit but when stressing or emotional situations I get to the point to harm myself. I also get very stressed when any of the sensitive things are being herrased also i have touch sensitivity i just realized too i avoid to people touch me (thats not a hard one because normally no one touch me atleast i say so)
+- i cant see people to the eyes for much time and i feel unconfortable when people do 
+- when talking i do not look to people in the eye and always they think i am not listening
+	- ive always have communication issues not j
+- Its very difficult to me get used to the change i dont like it
+- I am very organized or very unorganized if someone gets in the way
+- I always like to talk about my stuff and people may be bothered by that (my favorit topic is informatic yes i am a nerdy or geek of the computers)
+- I have a spiky skils and by that i mean that i am very good at something and that i am very bad at others there is no middle point
+- my emotional regulation is different than others I always have this thing if i cant fix something or something just happen my brain shuts down and i cant say anything at all 
+- I am allways the odd on social interactions in middle school i had "friends" i do not think i can call them like that I always felt like they didnt wanned to be with me that much i always had to follow them everywhere they went and i have no memories about they seeking me
+- I find it difficult to regulate my emotions 
+- i prefer not to talk than saying something wrong or maybe too much or too little 

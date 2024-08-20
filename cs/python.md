@@ -1,0 +1,2 @@
+this is a languaje a have a story with i started learning from a basic programming fundamentals in my syster's class and understanding it i was one of those things easy to begin with but really hard to master 
+python is a [[OOP]] or [[ObjectOrientedPrograming]] 
