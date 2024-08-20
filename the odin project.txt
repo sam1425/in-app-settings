@@ -1,0 +1,25 @@
+internet: for me the internet its just computers interconected among them it could be the cables but it is not just that
+there is services that help with search and finding this computers conected like dns because people wont remember 192.168.1.1
+
+packet: i think packets are chuncks of data for transfering between devices to make it easier to send and read and can even make
+it faster compressing it and because of internet trafic would take longer and would be inestable
+
+differences:
+
+web page: it is what the browser displays when read multiple files programmed by a person html,css,js or ts and it is displayed on 
+the screen
+
+web server: is a computer that have the files to represent on the screen html,css,js and for every request send those files for a 
+browser to be displayed
+
+web browser: its just a program for displaying the files the web server gives you 
+
+
+search engine: is a service that helps finding websites by typing words in the query and they are ranked so they always give the 
+best options (by their criteria) 
+
+client: any device conected to the cable(internet) that sends a request to any server
+
+server: is a computer programmed so when requested sends information all over 
+
+ip: is a number given to your especific device to localize you and no anybody else (given by your routers through the cable)
