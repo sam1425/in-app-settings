@@ -1,0 +1,2 @@
+Changelog 01.12.23:
+• Added an alternative cursor variant "link.cur".
